@@ -1,0 +1,16 @@
+@import './base/base';
+@import './base/settings';
+
+//pages
+@import './pages/Home';
+@import './pages/HeroDetail';
+@import './pages/Search';
+
+//components
+@import './components/BarNav';
+@import './components/HeroesList';
+@import './components/Heroe';
+@import './components/Footer';
+@import './components/HeroeDetailContainer';
+@import './components/HeroeDetail';
+@import './components/SearchHeroe';
